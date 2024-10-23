@@ -3,11 +3,13 @@
 **AIM:**
 
 
+
 To implement the RSA algorithm to securely encrypt and decrypt messages using public and private
 keys.
 
 
 **ALGORITHM:**
+
 
 
 Step 1:
@@ -52,7 +54,9 @@ Print the encrypted message and the decrypted message.
 Step 13:
 End the program.
 
+
 **PROGRAM:**
+
 
 ```
 #include <stdio.h>
@@ -165,4 +169,5 @@ return 0;
 
 
 Result:
+
 The program for RSA encryption and decryption is executed successfully.
